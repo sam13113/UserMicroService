@@ -1,0 +1,6 @@
+server:
+  port: 9002
+app:
+  department:
+    service:
+      url: http://localhost:9001/department/?id=
